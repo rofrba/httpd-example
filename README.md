@@ -2,7 +2,7 @@
 
 Este proyecto muestra cómo crear una imagen de contenedor personalizada usando Apache HTTPD y servir contenido estático.
 
-## Construir la imagen con Podman
+## Construir la imagen
 
 Para construir la imagen de contenedor llamada `httpd-app` usando el `Dockerfile` incluido, ejecuta el siguiente comando en el directorio raíz del proyecto:
 
